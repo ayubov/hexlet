@@ -1,0 +1,18 @@
+{
+  "name": "braingames",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ayubov/project-lvl1-s128"
+  },
+  "author": "Alvi Ayubov",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/ayubov/project-lvl1-s128/issues"
+  }
+}
